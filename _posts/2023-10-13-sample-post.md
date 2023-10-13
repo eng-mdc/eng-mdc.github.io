@@ -2,7 +2,7 @@
 layout: post
 title: First Blog Example
 tags: [A Tag, Katex]
-author: Sam Riley
+author: Sam
 categories: Example
 feature-img: "assets/img/pexels/travel.jpeg"
 excerpt_separator: <!--more-->
