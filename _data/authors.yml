@@ -1,6 +1,6 @@
 Sam: # author-id
   name: "Sam Riley"
-  avatar: "assets/img/authors/sam.jpg"
+  avatar: "/assets/img/authors/sam.jpg"
   url: "https://twitter.com/samriley"
 Adam:
   name: "Adam Smith"
