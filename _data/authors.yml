@@ -1,14 +1,14 @@
 Sam: # author-id
   name: "Sam Riley"
-  avatar: "assets/img/authors/sam.jpeg"
+  avatar: "assets/img/authors/sam.jpg"
   url: "https://twitter.com/samriley"
 Adam:
   name: "Adam Smith"
-  avatar: "assets/img/authors/adam.jpeg"
+  avatar: "assets/img/authors/adam.jpg"
   url: "https://twitter.com/asmith6"
 Karen:
   name: "Karen Hayllar"
-  avatar: "assets/img/authors/karen.jpeg"
+  avatar: "assets/img/authors/karen.jpg"
   url: ""
 unknown:
   name: Unknown
